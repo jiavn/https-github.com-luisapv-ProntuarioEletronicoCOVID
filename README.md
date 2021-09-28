@@ -7,6 +7,7 @@ A pandemia do *COVID-19* propiciou uma aceleração do uso de tecnologias que pe
   
 
 O sistema é desenvolvido, documentado e implementado pelos alunos do GRUPO10 da UnigranRio da turma de PCA: SISTEMAS DE INFORMAÇÃO DISTRIBUIDA:
+
     # Colaboradores
     
     Luis Alfredo Pacheco do Vale | https://github.com/luisapv
