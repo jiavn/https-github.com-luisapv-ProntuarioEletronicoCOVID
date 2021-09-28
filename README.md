@@ -8,7 +8,10 @@ A pandemia do *COVID-19* propiciou uma aceleração do uso de tecnologias que pe
 
 # O sistema é desenvolvido, documentado e implementado pelos alunos do GRUPO10 da UnigranRio da turma de PCA: SISTEMAS DE INFORMAÇÃO DISTRIBUIDA:
 
-Luis Alfredo Pacheco do Vale | Matrícula: 5305436 | https://github.com/luisapv
-Leonardo Casteliano de Oliveira | Matrícula: 5306772 | https://github.com/iiPr0s
-Jonas Israel Anselmé Vila Nova  | Matrícula:  0700677 | https://github.com/jiavn
-José Vítor Cruz de Souza | Matrícula: 0700664 | https://github.com/vitorcruzfaculdade
+    Luis Alfredo Pacheco do Vale | Matrícula: 5305436 | https://github.com/luisapv
+    
+    Leonardo Casteliano de Oliveira | Matrícula: 5306772 | https://github.com/iiPr0s
+    
+    Jonas Israel Anselmé Vila Nova  | Matrícula:  0700677 | https://github.com/jiavn
+    
+    José Vítor Cruz de Souza | Matrícula: 0700664 | https://github.com/vitorcruzfaculdade
