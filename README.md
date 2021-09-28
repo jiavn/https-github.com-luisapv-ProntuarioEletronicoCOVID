@@ -6,7 +6,7 @@ A pandemia do *COVID-19* propiciou uma aceleração do uso de tecnologias que pe
 *O ProntuarioEletronicoCOVID* suportará campos para armazenar ainda dados descritivos, receituário médico, armazenamento de arquivos com resultados de exame e contará com uma funcionalidade de forum padrão de mercado para possibilitar a troca de informações diretas entre paciente e médico.
   
 
-** O sistema é desenvolvido, documentado e implementado pelos alunos do GRUPO10 da UnigranRio da turma de PCA: SISTEMAS DE INFORMAÇÃO DISTRIBUIDA:**
+O sistema é desenvolvido, documentado e implementado pelos alunos do GRUPO10 da UnigranRio da turma de PCA: SISTEMAS DE INFORMAÇÃO DISTRIBUIDA:
 
     Luis Alfredo Pacheco do Vale | Matrícula: 5305436 | https://github.com/luisapv
     
